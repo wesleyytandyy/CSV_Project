@@ -65,7 +65,7 @@ a[0].set_title(
     fontsize=16,
 )
 
-plt.title(
+a[1].set_title(
     "DEATH VALLEY, CA US",
     fontsize=16,
 )
